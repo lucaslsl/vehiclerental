@@ -1,0 +1,11 @@
+target
+.env
+.idea/
+*.iml
+node_modules
+
+# src/main/resources/angular/src/components/**/*
+/src/main/resources/angular
+.DS_STORE
+uploads/
+nbactions.xml
